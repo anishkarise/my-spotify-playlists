@@ -1,0 +1,63 @@
+h1{
+    color:white;
+    position:relative;
+    margin-left: 70px;
+}
+div.header {
+    text-align: center;
+  }
+
+  *{
+    background-color:black;
+    margin: 5px;;
+}
+
+.header{
+    background-color:black;   
+    margin: left 300px; 
+}
+.item{
+    position: absolute;
+    left: 520px;
+    top: 80px;
+}
+.second{
+    position: absolute;
+    left: 360px;
+    top: 600px;
+}
+.third{
+    position: absolute;
+    left: 740px;
+    top: 600px;
+}
+.forth{
+    position: absolute;
+    left: 1090px;
+    top: 600px;
+}
+.fifth{
+    position: absolute;
+    left: 1145px;
+    top: 1050px;
+}
+.sixth{
+    position: absolute;
+    left: 20px;
+    top: 1050px;
+}
+.seventh{
+    position: absolute;
+    left: 370px;
+    top: 1050px;
+}
+.eight{
+    position: absolute;
+    left: 770px;
+    top: 1050px;
+}
+.first{
+    position: absolute;
+    left: 20px;
+    top: 600px;
+}
